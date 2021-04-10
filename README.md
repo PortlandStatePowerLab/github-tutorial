@@ -5,7 +5,7 @@ Overview of PortlandStatePowerLab's repos organization and general guidelines fo
 
 The naming convention for repositories will be *kebab-case* where each word is seperated by a hyphen. In an attempt to group related projects we have adopted the following standard:
 
-- <organization>-<technology>-<description>
+- \<organization\>-\<technology\>-\<description\>
   - doe-egot-me
   - cmake-tutorial *where the organization is PSU*
 
